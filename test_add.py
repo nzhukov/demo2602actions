@@ -8,3 +8,6 @@ def minus(a, b):
 def test_math():
     assert add(2, 3) == 5
 
+
+def test_math():
+    assert minus(2, 3) == -2
